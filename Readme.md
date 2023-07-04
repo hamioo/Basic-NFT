@@ -2,7 +2,7 @@
 
 ### This is a Basic ERC721 NFT of PIRELLI'S SOFT COMPOUND TIRE.
 
-### You can see the NFT in opensea by clicking [Here](https://testnets.opensea.io/collection/soft-compound-tire)
+### You can see the NFT in opensea by clicking [Here](https://testnets.opensea.io/collection/soft-compound-tire).
 
 <br/>
 <p align="center">
